@@ -1,0 +1,49 @@
+#blankRadio1 {
+  height: 13px;
+  width: 13px;
+}
+h3 {
+  display: inline;
+  margin-left: 2.5px;
+  margin-right: 2.5px;
+  color: #eee;
+}
+input {
+  padding: 10px 20px;
+  color: #eee;
+  background: #f3f3f3b2;
+  font-size: 15px;
+  height: 30px;
+  width: 209px;
+}
+input:focus {
+  color: rgb(226, 2, 2);
+  background-color: #1a1a2580;
+}
+.submit {
+  margin-left: 50%;
+  margin-right: 50%;
+}
+.row {
+  margin-left: 10%;
+  margin-right: 0;
+}
+.rb {
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+.cool input {
+  width: 100%;
+  padding: 0%;
+  text-align: center;
+}
+.cool {
+  float: left;
+  width: 25%;
+  text-align: center;
+  color: whitesmoke;
+  font-weight: bold;
+}
+h4 {
+  color: white;
+}
